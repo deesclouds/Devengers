@@ -1,9 +1,14 @@
 # Devengers
 
-If you're a collaborator, go to the Github Repo page, Git clone the project, and cd into the directory. 
+Collaborators head to the Github Repo page, Git clone the project, and cd into the directory. 
 
-**Don't fork it!**
-Forking will copy it in a new Repo to your Github page, but you don't want that - you want to collaborate on the same Github Repo with your team.
+**DO NOT FORK IT!**
+
+What does forking do?
+
+Forking copies a new Repo to your Github page. 
+
+You do not want that - you want to collaborate on the same Github Repo with us.
 
 # Getting Set up
 
