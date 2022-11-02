@@ -32,11 +32,13 @@ The best way to keep the main branch deployable is to create new branches for ne
 
 Branches should always represent features.
 
-ex: ability for user to login should create a branch called 'user_authentication' and that branch should only update what we need to enable a user login.
+Example: ability for user to login should create a branch called 'user_authentication' and that branch should only update what we need to enable a user login.
+
+
 
 **Important not to overlap code**
 
-We shouldn't all be working on a 'user_login' branch at the same time someone is working on a 'user_logout' branch since chance are high the code will overlap.
+We shouldn't all be working on the same branch at the same time or when someone is working on a that overlaps with our code. Chances are high the code will overlap.
 
 # Create a new branch
 ```
