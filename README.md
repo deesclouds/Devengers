@@ -67,7 +67,7 @@ First determine who's in charge of handling merging.
 
 Push your branches
 ```
-git branch
+git push
 ```
 
 On the Repo page, you should see the branch you pushed up in a yellow bar at the top of the page with a button to 'Compare & pull request'.
