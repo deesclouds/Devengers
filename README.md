@@ -46,14 +46,16 @@ git co -b create_user
 
 ```
 
-```co``` is short for 'checkout' used to switch between branches. Adding the '-b' and a name at the end creates a new branch and then moves into that new branch for us.
+```co``` is short for 'checkout' used to switch between branches. 
+
+Adding the '-b' and a name at the end creates a new branch and then moves into that new branch for us.
 
 Verify this with:
 ```
 git branch
 ```
 
-***Git add frequently and git commit when finished***
+***git add frequently and git commit when finished***
 
 ```
 git commit -m "Added function to allow Users to say 'Hello World"
