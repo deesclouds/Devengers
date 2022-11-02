@@ -1,5 +1,4 @@
 # Devengers
-# Devengers
 
 If you're a collaborator, go to the Github Repo page, Git clone the project, and cd into the directory. 
 
@@ -52,3 +51,17 @@ git branch
 ```
 git commit -m "Added function to allow Users to say 'Hello World"
 ```
+
+# Submitting Pull Requests
+
+First determine who's in charge of handling merging. 
+
+Push your branches
+```
+git branch
+```
+
+On the Repo page, you should see the branch you pushed up in a yellow bar at the top of the page with a button to 'Compare & pull request'.
+
+Also can select the branch in the drop-down 'Branch:' menu and select the branch you've just pushed up. Then you'll have a 'Pull request' and 'Compare' button on the right hand side.
+
