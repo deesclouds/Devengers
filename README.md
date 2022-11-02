@@ -30,7 +30,7 @@ The best way to keep the main branch deployable is to create new branches for ne
 
 # Making a Branch
 
-Branches should alway represent features.
+Branches should always represent features.
 
 ex: ability for user to login should create a branch called 'user_authentication' and that branch should only update what we need to enable a user login.
 
