@@ -14,14 +14,30 @@ You do not want that - you want to collaborate on the same Github Repo with us.
 
 # Getting Set up
 
+First step is to find the repo and click on the green button that says Code.
+
+Then you want to select HTTPS or SSH
+
+Go to your Terminal and ```cd Documents/```
+
+This will take you to your Documents folder.
+
+The choose one of these commands:
+
 ```
 **clone with SSH**
 git clone git@github.com:deesclouds/Devengers.git
 
 **clone with HTTPS**
 git clone https://github.com/deesclouds/Devengers.git
-
+```
+Then go to the Devengers folder:
+```
 cd Devengers/
+```
+Then:
+```
+git remote add upstream https://github.com/deesclouds/Devengers.git
 ```
 
 # Collaborating
@@ -76,3 +92,10 @@ On the Repo page, you should see the branch you pushed up in a yellow bar at the
 
 Also can select the branch in the drop-down 'Branch:' menu and select the branch you've just pushed up. Then you'll have a 'Pull request' and 'Compare' button on the right hand side.
 
+# Keeping your copy of the repo in sync:
+```
+git checkout main
+```
+```
+git pull upstream
+```
